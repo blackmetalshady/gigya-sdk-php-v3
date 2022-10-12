@@ -1,0 +1,21 @@
+{
+	"name": "rtbf/gigya-sdk-php",
+	"description": "Gigya SDK PHP",
+	"type": "library",
+	"keywords": ["gigya"],
+	"homepage": "http://developers.gigya.com/display/GD/PHP",
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"authors": [
+		{
+			"name": "Yassine El Khanboubi",
+			"email": "yaek@rtbf.be"
+		}
+	],
+	"require": {
+		"php": ">=7.0"
+	},
+	"autoload": {
+		"classmap": ["."]
+	}
+}
